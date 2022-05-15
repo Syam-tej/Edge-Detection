@@ -81,8 +81,8 @@ plt.show()
 ## Importing
 
 ![java 1](https://user-images.githubusercontent.com/93427224/168482889-c13e0d6f-424c-479f-a5c9-0f37023eca40.png)
-![java 2](https://user-images.githubusercontent.com/93427224/168482896-9009![java 3](https://user-images.githubusercontent.com/93427224/168482900-64c36cc1-4d08-4663-883c-4fc17e5c7e27.png)
-9bfb-076a-4d8e-90f2-947417ae18ca.png)
+![java 2](https://user-images.githubusercontent.com/93427224/168483079-2507c54f-ab24-4242-838a-85183ddad7a3.png)
+![java 3](https://user-images.githubusercontent.com/93427224/168483091-0fc22a60-b32f-4c01-a94b-189551d619a1.png)
 
 ### SOBEL EDGE DETECTOR
 
